@@ -11,4 +11,6 @@ base feature 1 in master branch
 ima in feature2 of rel1.0
 
 base feature2 rel1.0
-feature1_rel_1.3
+
+
+fix for base feature1
